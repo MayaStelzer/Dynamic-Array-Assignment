@@ -41,7 +41,7 @@ Write a program that:
 3. Calculates and prints the memory usage for each vector in bytes.
 Your program should output the results in the following format:
 
-```python
+```
 Memory usage of std::vector<bool>: X bytes
 Memory usage of std::vector<char>: Y bytes
 ```
