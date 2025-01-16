@@ -7,7 +7,7 @@ This assignment shows your knowledge of how vectors manage its size and capacity
 Implement a dynamic array class without using std::vector or similar library classes.
 Write the following:
 1. Constructur: To initialize the dynamic array
-2. Destructur: To clean up the allocated memory
+2. Destructor: To clean up the allocated memory
 3. Push Back: Add an element to the end of the array. If the array is full, double its capacity before adding the new element.
 4. Remove At: Remove the element at the specific index, shifting following elements to the left.
 5. Get At: Retrieve the element at a spefific index.
