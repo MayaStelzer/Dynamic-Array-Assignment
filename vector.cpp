@@ -9,7 +9,8 @@ void part2() {
     //TODO: Implement part 2
 }
 
-void main() {
+int main() {
     part1();
     part2();
+    return 0;
 }
