@@ -11,14 +11,12 @@ Write a program that:
 2. Add 50,000 integers to the vector and record the size and capacity after the entire operation.
 3. Removes half the elements from the vector by resizing it to half its original size (eg. resize(size() / 2)) and record the size and capacity again.
 4. Calls shrink_to_fit() on the vector to optimize its memory usage and log the size and capacity again.
-5. Measure and output the total time take for the entire sequence of operations
 
 Your program should output the results in the following format:
 ``` 
 After adding elements: Size = X, Capacity = Y
 After resizing: Size = X, Capacity = Y
 After shrink_to_fit(): Size = X, Capacity = Y
-Time taken: X ms
 ```
 
 ## Part 2
